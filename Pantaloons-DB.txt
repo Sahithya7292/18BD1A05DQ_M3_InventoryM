@@ -1,0 +1,10 @@
+Pantaloons.Women
+
+{"_id":"608582842a1c000c9ca8ad9c","Pid":"510","Brand":"Prada","Category":"Ethinic","Name":"Kurta","Size":"5","Quantity":"40","CP":"400","SP":"590","Date":"2021-04-25"}
+{"_id":"6085829d2a1c000c9ca8ad9d","Pid":"511","Brand":"Lakshita","Category":"Bridal","Name":"Lehanga","Size":"9","Quantity":"24","CP":"5000","SP":"7000","Date":"2021-04-25"}
+{"_id":"60859f692a1c000c9ca8ada2","Pid":"512","Brand":"Akkriti","Category":"Western","Name":"kaftan ","Size":"5","Quantity":"25","CP":"450","SP":"650","Date":"2021-04-25"}
+{"_id":"6085a0102a1c000c9ca8ada4","Pid":"514","Brand":"W","Category":"Western","Name":"Shrugs","Size":"11","Quantity":"45","CP":"650","SP":"850","Date":"2021-04-25"}
+{"_id":"6085a02a2a1c000c9ca8ada5","Pid":"515","Brand":"Visudh","Category":"Ethinic","Name":"Pink-Kurta","Size":"4","Quantity":"75","CP":"650","SP":"730","Date":"2021-04-25"}
+{"_id":"6085a04d2a1c000c9ca8ada6","Pid":"516","Brand":"Lakshita","Category":"Ethinic","Name":"Saris","Size":"9","Quantity":"100","CP":"750","SP":"950","Date":"2021-04-25"}
+{"_id":"608757957503f60a64d756cd","Date":"2021-04-27","Pid":"518","Brand":"Prada","Category":"Ethinic","Name":"Kurta","Size":"12","Quantity":"56","CP":"250","SP":"550"}
+{"_id":"608afc6f00368127a40b01c8","Date":"2021-04-29","Pid":"785","Brand":"Akkriti","Category":"Ethinic","Name":"Lehanga","Size":"7","Quantity":"50","CP":"890","SP":"1220"}
